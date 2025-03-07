@@ -8,13 +8,17 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on the famous 
 
 ## This project involves:
 
-# Data Cleaning: Handling missing values, detecting outliers, and preparing data for analysis.
+# Data Cleaning: 
+Handling missing values, detecting outliers, and preparing data for analysis.
 
-# Exploratory Data Analysis (EDA): Performing univariate and bivariate analysis to understand patterns in the dataset.
+# Exploratory Data Analysis (EDA): 
+Performing univariate and bivariate analysis to understand patterns in the dataset.
 
-# Visualization: Using graphs and charts to uncover trends related to survival rates.
+# Visualization: 
+Using graphs and charts to uncover trends related to survival rates.
 
-# Key Insights: Identifying factors that contributed to passenger survival, such as gender, class, and fare prices.
+# Key Insights:
+Identifying factors that contributed to passenger survival, such as gender, class, and fare prices.
 
 ## 📊 Key Insights
 
@@ -28,10 +32,13 @@ Missing age values were estimated using median age for similar passengers.
 
 ## 🚀 Future Work
 
-# Feature Engineering: Creating new features to improve data analysis and predictions.
+# Feature Engineering:
+Creating new features to improve data analysis and predictions.
 
-# Machine Learning Model: Applying classification algorithms to predict survival.
+# Machine Learning Model:
+Applying classification algorithms to predict survival.
 
-# Deployment: Developing a web-based Titanic survival predictor.
+# Deployment:
+Developing a web-based Titanic survival predictor.
 
 # The project aims to extract meaningful insights and demonstrate data analysis techniques that can be applied to similar datasets in real-world scenarios.
